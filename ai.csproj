@@ -15,8 +15,8 @@
     <Description>A Terminal.Gui inline-mode CLI powered by the GitHub Copilot SDK.</Description>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
-    <PackageProjectUrl>https://github.com/gui-cs/ai</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/gui-cs/ai</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/tui-cs/ai</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/tui-cs/ai</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageTags>ai;copilot;terminal;tui;terminal-gui;chat</PackageTags>
   </PropertyGroup>
