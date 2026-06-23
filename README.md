@@ -1,6 +1,6 @@
 # ai
 
-A [Terminal.Gui](https://github.com/gui-cs/Terminal.Gui) inline-mode CLI powered by the [GitHub Copilot SDK](https://www.nuget.org/packages/GitHub.Copilot.SDK).
+A [Terminal.Gui](https://github.com/tui-cs/Terminal.Gui) inline-mode CLI powered by the [GitHub Copilot SDK](https://www.nuget.org/packages/GitHub.Copilot.SDK).
 
 ## Features
 
