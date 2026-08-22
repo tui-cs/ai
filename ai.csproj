@@ -27,7 +27,10 @@
   <ItemGroup>
     <PackageReference Include="GitHub.Copilot.SDK" Version="0.2.2" />
     <PackageReference Include="System.CommandLine" Version="2.0.6" />
-    <PackageReference Include="Terminal.Gui" Version="2.0.0-rc.3" />
+    <!-- TEMP: preview package built from tui-cs/Terminal.Gui#5416 (ConfigurationManager removal),
+         vendored in ./local_packages via nuget.config. Swap to the public 2.5.x package once it
+         ships on nuget.org. -->
+    <PackageReference Include="Terminal.Gui" Version="2.5.0-tig-remove-cm-followup.1" />
   </ItemGroup>
 
   <!--
